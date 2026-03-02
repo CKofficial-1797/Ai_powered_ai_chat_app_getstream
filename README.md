@@ -2,7 +2,7 @@
 
 A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and **web search capabilities**. This full-stack application provides an intelligent writing assistant that can help with content creation, research, and real-time collaboration.
 
-## 🚀 Features
+##  Features
 
 - **Real-time Chat**: Powered by [GetStream.io](https://getstream.io) for seamless messaging
 - **AI Writing Assistant**: OpenAI GPT-4 integration for intelligent content generation
@@ -13,7 +13,7 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 - **Secure Authentication**: JWT-based token authentication
 - **Responsive Design**: Mobile-first design with Tailwind CSS
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Backend (`nodejs-ai-assistant/`)
 
@@ -30,7 +30,7 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 - **Tailwind CSS** + **shadcn/ui** for modern styling
 - **Vite** for fast development and building
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js 20 or higher
 - npm or yarn package manager
